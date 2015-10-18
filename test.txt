@@ -10,3 +10,6 @@ c=foo(2)
 print(a)
 print(b)
 print(c)
+
+d=foo(10)
+print(d)
